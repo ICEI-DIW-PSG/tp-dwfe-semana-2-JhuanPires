@@ -2,13 +2,12 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Jhuan Neto Santos Pires
+Matricula: 926448
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
-
+![brazao puc](images/brasao_puc.png)
 
 
 ## Orientações sobre Linguagem MarkDown
