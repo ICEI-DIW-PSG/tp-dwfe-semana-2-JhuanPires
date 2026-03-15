@@ -1,1 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Biografia Jhuan</title>
+    </head>
+    <style>
+        body{
+            background: linear-gradient(to right, rgb(239, 245, 155), rgb(255, 255, 255));
+          }
+          img{
+            display: block;
+            margin: auto;
+          }
+          h1,h4{
+            text-align: center;
+          }
+    </style>    
+    <body>
+         <img height="350" width="350" src="e ae.jpg"><h1>JhuanPires</h1>
+         <i></i>  
+         <h4>Apaixonado por desafios, seja nos campos, nas quadras ou nos games. Encontro no Cristianismo o meu guia e o propósito para tudo o que faço. Em busca de crescimento, novas conexões e sempre pronto para aprender algo novo.</h4>
+         <h4>"Tudo o que fizerem, façam de todo o coração"</h4>
+         <h3>Habilidades:</h3>
+         <ul>
+<li>Aprendo Rápido.</li>
+<li>Tenho facilidade com atividades que exigem agilidade. </li>
+<li>Disciplina e fidelidade.</li>
+         </ul>
+         <h3>Línguas:</h3>  
+         <ul>
+         <li>Português</li>
+         <li>Inglês</li>
+         </ul>
+         <ul>
+<h3>Educação:</h3>
+  <li>Ensino Fundamental</li>
+          Escolinha Sementes do Amanhã|Bahia\EPG|Bahia
 
+          <li>Ensino Médio</li>
+          Colégio Oficina|Bahia/Colégio Chromos|MG
+         </ul>
+    </body>
+</html>
